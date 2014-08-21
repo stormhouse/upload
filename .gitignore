@@ -1,0 +1,8 @@
+.idea/
+node_modules/
+files/
+.DS_Store
+npm-debug.log
+test.js
+test.txt
+test.html
